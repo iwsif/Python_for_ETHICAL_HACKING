@@ -5,7 +5,7 @@ IMPORTANT DOS tool AND LOGGER ARE ONLY FOR TESTING PURPOSES!!!
 First Tool for Denial of Service vulnerability testing.
 Steps:
 1)You need python3 for this program!!
-2Type ./PROGRAMS_NAME and the you need to pass the target ip,your fake ip address,and how many processes you want to start 
+2)Type ./PROGRAMS_NAME and the you need to pass the target ip,your fake ip address,and how many processes you want to start 
 for this program(Start several processes with multiprocessing module).
 3)Extract the script.
 4)CONTROL + C for exit.
