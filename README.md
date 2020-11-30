@@ -24,6 +24,14 @@ Word generator that produces number of words and save them to a file.
 1)Start the program with python3 PROGRAMS_NAME or ./PROGRAMS_NAME.
 2)Pass as arguments the length of each word,how many words you want to generate and the file in which you want to save the results.
 
+FTP brute-forcer.
+If you dont have ftplib do pip3 install ftplib and run the script with python3.
+OPTIONS:
+--target for target ip address
+--list pass thw wordlist file
+--port(optional) default=21
+
+
 
 
 
