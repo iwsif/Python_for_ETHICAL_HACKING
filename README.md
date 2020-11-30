@@ -28,8 +28,8 @@ FTP brute-forcer.
 If you dont have ftplib do pip3 install ftplib and run the script with python3.
 OPTIONS:
 --target for target ip address
---list pass thw wordlist file
---port(optional) default=21
+--list pass the wordlist file
+--port optional argument default=21
 
 
 
