@@ -11,13 +11,13 @@ for this program(Start several processes with multiprocessing module).
 4)CONTROL + C for exit.***
 
 **LOGGER**
-Simple keyboard logger.
-***Written in python3.
+***Simple keyboard logger.
+Written in python3.
 Run pip3 install pynput.
 Extract the program by typing python3 + PROGRAMS_NAME or simply ./ + PROGRAMS_NAME.
 Pass your email,your password and time to wait before sending another event to your gmail account.
 This programs uses gmail stmp server try to turn off the security setting at your gmail account in order to receive events.
-START PROGRAM ***
+START PROGRAM***
 
 **WORD-GENERATOR**
 ***Word generator that produces number of words and save them to a file.
