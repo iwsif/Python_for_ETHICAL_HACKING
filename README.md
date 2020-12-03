@@ -9,7 +9,7 @@
   Extract the script.
   CONTROL + C for exit.*
 
-**LOGGER**
+**Logger**
 **Simple keyboard logger**.
 *Written in python3.
     Run pip3 install pynput..
@@ -18,7 +18,7 @@
     This programs uses gmail stmp server try to turn off the security setting at your gmail account in order to receive events
     START PROGRAM.*
 
-**WORD-GENERATOR**
+**Word-Generator**
 **Word generator that produces number of words and save them to a file.**
   *Start the program with python3 PROGRAMS_NAME or "./" and programs name.
   Pass as arguments the length of each word,how many words you want to generate and the file in which you want to save the              results.*
@@ -28,7 +28,7 @@
   OPTIONS:
   --target for target ip address.
   --list pass the wordlist file.
-  --port optional argument default=21 port.*
+  Port optional argument default=21 port.*
 
 
 
