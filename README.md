@@ -7,7 +7,7 @@
   \You need python3 for this program!!
 Type ./ + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start        for this program(Start several processes with multiprocessing module).
 Extract the script.
-CONTROL + C for exit.\
+CONTROL + C for exit.**\
 
 **LOGGER**
 **Simple keyboard logger**.
@@ -21,7 +21,7 @@ CONTROL + C for exit.\
 **WORD-GENERATOR**
 \***Word generator that produces number of words and save them to a file.
   Start the program with python3 PROGRAMS_NAME or "./" and programs name.
-  Pass as arguments the length of each word,how many words you want to generate and the file in which you want to save the              results.\
+  Pass as arguments the length of each word,how many words you want to generate and the file in which you want to save the              results.**\
 
 **FTP brute-forcer**
 \***If you dont have ftplib do pip3 install ftplib and run the script with python3.
