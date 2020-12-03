@@ -1,6 +1,6 @@
 # python_projects
 ***Python tools for security testing***
-***IMPORTANT DOS tool AND LOGGER ARE ONLY FOR TESTING PURPOSES!!!***
+***DOS tool AND LOGGER ARE ONLY FOR TESTING PURPOSES!!!***
 
 **Denial of Service vulnerability testing**
 *Steps:
