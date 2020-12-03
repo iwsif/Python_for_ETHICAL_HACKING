@@ -28,7 +28,7 @@ CONTROL + C for exit.**\
   OPTIONS:
   --target for target ip address.
   --list pass the wordlist file.
-  --port optional argument default=21 port.\
+  --port optional argument default=21 port.**\
 
 
 
