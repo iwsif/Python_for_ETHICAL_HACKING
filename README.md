@@ -7,7 +7,7 @@
   You need python3 for this program!!
   Type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to     start for this program(Start several processes with multiprocessing module).
   Extract the script.
-  CONTROL + C for exit.*
+  control + c for exit.*
 
 **Logger**
 **Simple keyboard logger**.
@@ -16,11 +16,11 @@
     Extract the program by typing python3 + programs name or simply "./"  and programs name.
     Pass your email,your password and time to wait before sending another event to your gmail account.
     This programs uses gmail stmp server try to turn off the security setting at your gmail account in order to receive events
-    START PROGRAM.*
+    Start program.*
 
 **Word-Generator**
 **Word generator that produces number of words and save them to a file.**
-  *Start the program with python3 PROGRAMS_NAME or "./" and programs name.
+  *Start the program with python3 programs name or "./" and programs name.
   Pass as arguments the length of each word,how many words you want to generate and the file in which you want to save the              results.*
 
 **FTP brute-forcer**
