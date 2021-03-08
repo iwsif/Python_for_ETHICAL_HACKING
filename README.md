@@ -46,9 +46,11 @@
 
 **RISK FOR WHOLE SYSTEM!!**
 
-*You need to download python3 meterpreter(FOR WINDOWS USERS ONLY)
-  STEPS:
-  pip3 install cryptography && pip3 install paramiko(SSH CLIENT)
+*You need to download python3 meterpreter(FOR WINDOWS USERS ONLY)*
+  
+  **STEPS:**
+  
+  *pip3 install cryptography && pip3 install paramiko(SSH CLIENT)
   chmod -x && chmod u+x FILENAME(User only permission to extract..)
   type FILENAME --help(FOR HELP WITH ARGUMENTS) 
   start program by typing ./ or python3 + FILENAME + arguments*
