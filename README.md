@@ -4,6 +4,7 @@
 ***ONLY FOR TESTING PURPOSES!!!***
 
 **Denial of Service vulnerability testing**
+
 *Steps:
   Download python3 meterpreter(FOR WINDOWS USERS)
   
@@ -14,7 +15,7 @@
   control + c for exit.*
 
 **PyKeylogger**
-**Simple keyboard logger**.
+**Simple keyboard logger**
 *Written in python3.
     Run pip3 install pynput(Module needed for keyboard listening!!)
     Extract the program by typing python3 + programs name or simply "./"  and programs name.
