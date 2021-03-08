@@ -8,7 +8,7 @@
 
 ***FOR PEN-TEST PURPOSES ONLY***
 
-**[Denial of Service vulnerability testing]**
+**[dos_tool.py(Denial of Service vulnerability testing)]**
 
 *Steps:
   Download python3 meterpreter(FOR WINDOWS USERS)
