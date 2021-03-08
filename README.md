@@ -62,7 +62,9 @@ Control + c for exit.*
   
  
  
+ 
  **extract_info.py** 
+ 
  ***EXTRACT LINKS FROM WEBSITE (RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT)***
  
  *pip3 install requests*
