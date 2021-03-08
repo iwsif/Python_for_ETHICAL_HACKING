@@ -1,6 +1,6 @@
 # Python_For_Ethical_Hacking
 ***Python tools for security testing***
-***Dos tool and Logger ARE ONLY FOR TESTING PURPOSES!!!***
+***ONLY FOR TESTING PURPOSES!!!***
 
 **Denial of Service vulnerability testing**
 *Steps:
