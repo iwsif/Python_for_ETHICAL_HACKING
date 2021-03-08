@@ -63,13 +63,14 @@ Control + c for exit.*
  
  
  **extract_info.py** 
+ 
  ***EXTRACT LINKS FROM WEBSITE (RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT)***
  
- *pip3 install requests*
- *pip3 install stem*
- *pip3 install cfscrape*
- *pip3 install bs4*
- *chmod -x FILENAME && chmod u+x FILENAME*
+ *pip3 install requests
+ pip3 install stem
+ pip3 install cfscrape
+ pip3 install bs4
+ chmod -x FILENAME && chmod u+x FILENAME*
  
  **ANON MODE(TOR BYPASS-FOR ANTIBOT SYSTEMS)**
  **CFSCRAPE MODULE (FOR BYPASSING ANTIBOT SYSTEMS)**
