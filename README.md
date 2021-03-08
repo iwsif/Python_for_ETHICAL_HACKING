@@ -6,7 +6,7 @@
 # Python_For_Ethical_Hacking
 ***Python tools for security testing***
 
-***ONLY FOR TESTING PURPOSES!!!***
+***FOR PEN-TEST PURPOSES ONLY***
 
 **[Denial of Service vulnerability testing]**
 
