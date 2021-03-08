@@ -61,7 +61,9 @@ Control + c for exit.*
   ***EVIL MODE ENCRYPTS  WHOLE FILESYSTEM AND SENDS THE KEY TO EVIL SERVER VIA SSH***
   
  
- ***extract_info.py***
+ 
+ **extract_info.py**
+ 
  ***EXTRACT LINKS FROM WEBSITE (RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT)***
  
  **pip3 install requests**
