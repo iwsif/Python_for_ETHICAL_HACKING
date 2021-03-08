@@ -58,7 +58,7 @@ Control + c for exit.*
   
   *start program by typing ./ or python3 + FILENAME + arguments*
   
-  ***EVIL MODE ENCRYPTS  WHOLE FILESYSTEM AND SENDS THE KEY TO EVIL SERVER VIA SSH***
+  **EVIL MODE ENCRYPTS  WHOLE FILESYSTEM AND SENDS THE KEY TO EVIL SERVER VIA SSH**
   
  
  
