@@ -21,6 +21,7 @@ Control + c for exit.*
 
 **[PyKeylogger]**
 **Simple keyboard logger**
+
 *Implemented python3.
     Run pip3 install pynput(Module needed for keyboard listening!!)
     Extract the program by typing python3 + programs name or simply "./"  and programs name.
@@ -67,13 +68,10 @@ Control + c for exit.*
  
  ***EXTRACT LINKS FROM WEBSITE (RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT)***
  
- *pip3 install requests*
- 
- *pip3 install stem*
- 
- *pip3 install cfscrape*
- 
- *pip3 install bs4*
+ *pip3 install requests && 
+    pip3 install stem &&
+    pip3 install cfscrape &&
+    pip3 install bs4*
  
  *chmod -x FILENAME && chmod u+x FILENAME*
  
