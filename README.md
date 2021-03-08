@@ -48,22 +48,13 @@ Control + c for exit.*
 **RISK FOR WHOLE SYSTEM!!**
 
 *You need to download python3 meterpreter(FOR WINDOWS USERS ONLY)*
+  STEPS:
+  pip3 install cryptography && pip3 install paramiko(SSH CLIENT)
+  chmod -x && chmod u+x FILENAME(User only permission to extract..)
+  Type FILENAME --help(FOR HELP WITH ARGUMENTS)*
+  Start program by typing ./ or python3 + FILENAME + arguments*
+  EVIL MODE ENCRYPTS  WHOLE FILESYSTEM AND SENDS THE KEY TO EVIL SERVER VIA SSH*
   
-  **STEPS:**
-  
-  *pip3 install cryptography && pip3 install paramiko(SSH CLIENT)*
-  
-  *chmod -x && chmod u+x FILENAME(User only permission to extract..)*
-  
-  *type FILENAME --help(FOR HELP WITH ARGUMENTS)*
-  
-  *start program by typing ./ or python3 + FILENAME + arguments*
-  
-  *EVIL MODE ENCRYPTS  WHOLE FILESYSTEM AND SENDS THE KEY TO EVIL SERVER VIA SSH*
-  
- 
- 
- 
  **[extract_info.py]** 
  
  ***EXTRACT LINKS FROM WEBSITE (RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT)***
@@ -73,11 +64,9 @@ Control + c for exit.*
     pip3 install cfscrape &&
     pip3 install bs4*
  
- *chmod -x FILENAME && chmod u+x FILENAME*
- 
- **ANON MODE(TOR BYPASS-FOR ANTIBOT SYSTEMS)**
- 
- **CFSCRAPE MODULE (FOR BYPASSING ANTIBOT SYSTEMS)**
+ *chmod -x FILENAME && chmod u+x FILENAME 
+  ANON MODE(TOR BYPASS-FOR ANTIBOT SYSTEMS)
+  CFSCRAPE MODULE (FOR BYPASSING ANTIBOT SYSTEMS)*
 
 
 
