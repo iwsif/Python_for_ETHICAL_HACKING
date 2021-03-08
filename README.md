@@ -66,7 +66,7 @@ Control + c for exit.*
 
 **[domain.py]**
 
-***FIND WEB DOMAIN**
+***FIND WEB DOMAIN***
 
 *You need a dictionary with possible domain names for this program 
   pip3 install requests && chmod -x FILENAME && chmod u+x FILENAME Type ./ or python3 to extract the program See --help for program info*
