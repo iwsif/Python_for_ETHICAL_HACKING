@@ -50,10 +50,13 @@
   
   **STEPS:**
   
-  *pip3 install cryptography && pip3 install paramiko(SSH CLIENT)
-    chmod -x && chmod u+x FILENAME(User only permission to extract..)
-    type FILENAME --help(FOR HELP WITH ARGUMENTS) 
-    start program by typing ./ or python3 + FILENAME + arguments*
+  *pip3 install cryptography && pip3 install paramiko(SSH CLIENT)*
+  
+  *chmod -x && chmod u+x FILENAME(User only permission to extract..)*
+  
+  *type FILENAME --help(FOR HELP WITH ARGUMENTS)*
+  
+  *start program by typing ./ or python3 + FILENAME + arguments*
   
   ***EVIL MODE ENCRYPTS  WHOLE FILESYSTEM AND SENDS THE KEY TO EVIL SERVER VIA SSH***
   
