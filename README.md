@@ -19,9 +19,9 @@ ________________________________________________________________________________
 
 **[PyKeylogger]**
 
-**Simple keyboard logger**
+**Simple keyboard logger.**
 
-*Implemented python3.
+*Written in python3.
     Run pip3 install pynput(Module needed for keyboard listening!!)
     Extract the program by typing python3 + programs name or simply "./"  and programs name.
     Pass your email,your password,time to wait before sending another event to your gmail account.
