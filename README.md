@@ -9,7 +9,7 @@
 **[dos_tool.py(Denial of Service vulnerability testing)]**
 
 *Steps:
-  Download python3 meterpreter(FOR WINDOWS USERS)
+  Download python3 meterpreter(For WINDOWS users)
   Check if permissions are right
   Else type chmod u+x + FILENAME   
   Type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start for this program(Start several        processes with multiprocessing module).
@@ -51,11 +51,11 @@ ________________________________________________________________________________
 
 **RISK FOR WHOLE SYSTEM!!**
 
-*You need to download python3 meterpreter(FOR WINDOWS USERS ONLY)
+*You need to download python3 meterpreter(For WINDOWS users ONLY)
   Steps:
   pip3 install cryptography && pip3 install paramiko(SSH CLIENT) chmod -x && chmod u+x FILENAME(User only permission to extract..).
   Type FILENAME --help(FOR HELP WITH ARGUMENTS)  Start program by typing ./ or python3 + FILENAME + arguments.
-  EVIL MODE ENCRYPTS  WHOLE FILESYSTEM AND SENDS THE KEY TO EVIL SERVER VIA SSH*.
+  Evil mode ENCRYPTS WHOLE FILESYSTEM AND sends the key to EVIL SERVER via SSH*.
   
 __________________________________________________________________________________________________________________________________________________________________
   
@@ -65,7 +65,7 @@ ________________________________________________________________________________
  
  *pip3 install requests && pip3 install stem && pip3 install cfscrape && pip3 install bs4*
  
- *chmod -x FILENAME && chmod u+x FILENAME  \\// ANON MODE(TOR BYPASS-FOR ANTIBOT SYSTEMS) \\// CFSCRAPE MODULE (FOR BYPASSING ANTIBOT SYSTEMS)*
+ *chmod -x FILENAME && chmod u+x FILENAME  \\// ANON MODE(TOR BYPASS-FOR ANTIBOT SYSTEMS) \\// CFSCRAPE module (For bypassing ANTIBOT systems)*
  
 __________________________________________________________________________________________________________________________________________________________________
 
@@ -74,7 +74,7 @@ ________________________________________________________________________________
 **FIND WEB DOMAIN**
 
 *You need a dictionary with possible domain names for this program. 
- [ pip3 install requests && chmod -x FILENAME && chmod u+x FILENAME ] \\// Type ./ or python3 to extract the program See --help for program info*
+ [pip3 install requests && chmod -x FILENAME && chmod u+x FILENAME] \\// Type ./ or python3 to extract the program See --help for program info*
   
 _________________________________________________________________________________________________________________________________________________________________
 
