@@ -74,7 +74,9 @@ ________________________________________________________________________________
 
  **[extract_info.py]** 
  
- **Extracts links from website //\\ RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT!!*
+ **Extracts links from website**
+ 
+ **RISK website OVERLOADING due to HIGH RECURSION limit!!*
  
  *pip3 install requests && pip3 install stem && pip3 install cfscrape && pip3 install bs4*
  
