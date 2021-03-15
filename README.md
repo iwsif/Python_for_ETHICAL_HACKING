@@ -21,7 +21,7 @@ Control + c for exit.*
 _________________________________________________________________________________________________________________________________________________________________
 
 **[PyKeylogger]**
-**Simple keyboard logger**
+**Simple keyboard logger **
 
 *Implemented python3.
     Run pip3 install pynput(Module needed for keyboard listening!!)
