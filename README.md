@@ -24,7 +24,7 @@ ________________________________________________________________________________
     Run pip3 install pynput(Module needed for keyboard listening!!)
     Extract the program by typing python3 + programs name or simply "./"  and programs name.
     Pass your email,your password,time to wait before sending another event to your gmail account.
-    This programs uses gmail stmp server(Turn off the security setting at your gmail account in order to receive events)
+    This programs uses gmail stmp server(Turn off the security setting at your gmail account in order to receive events).
     Start program.*
     
  _________________________________________________________________________________________________________________________________________________________________
@@ -53,9 +53,9 @@ ________________________________________________________________________________
 
 *You need to download python3 meterpreter(FOR WINDOWS USERS ONLY)
   STEPS:
-  pip3 install cryptography && pip3 install paramiko(SSH CLIENT)  chmod -x && chmod u+x FILENAME(User only permission to extract..)
-  Type FILENAME --help(FOR HELP WITH ARGUMENTS)  Start program by typing ./ or python3 + FILENAME + arguments
-  EVIL MODE ENCRYPTS  WHOLE FILESYSTEM AND SENDS THE KEY TO EVIL SERVER VIA SSH*
+  pip3 install cryptography && pip3 install paramiko(SSH CLIENT)  chmod -x && chmod u+x FILENAME(User only permission to extract..).
+  Type FILENAME --help(FOR HELP WITH ARGUMENTS)  Start program by typing ./ or python3 + FILENAME + arguments.
+  EVIL MODE ENCRYPTS  WHOLE FILESYSTEM AND SENDS THE KEY TO EVIL SERVER VIA SSH*.
   
 __________________________________________________________________________________________________________________________________________________________________
   
@@ -68,7 +68,7 @@ ________________________________________________________________________________
     pip3 install cfscrape &&
     pip3 install bs4*
  
- *chmod -x FILENAME && chmod u+x FILENAME  ANON MODE(TOR BYPASS-FOR ANTIBOT SYSTEMS)  CFSCRAPE MODULE (FOR BYPASSING ANTIBOT SYSTEMS)*
+ *chmod -x FILENAME && chmod u+x FILENAME  // ANON MODE(TOR BYPASS-FOR ANTIBOT SYSTEMS) // CFSCRAPE MODULE (FOR BYPASSING ANTIBOT SYSTEMS)*
  
 __________________________________________________________________________________________________________________________________________________________________
 
@@ -76,7 +76,7 @@ ________________________________________________________________________________
 
 **FIND WEB DOMAIN**
 
-*You need a dictionary with possible domain names for this program 
+*You need a dictionary with possible domain names for this program. 
   pip3 install requests && chmod -x FILENAME && chmod u+x FILENAME Type ./ or python3 to extract the program See --help for program info*
   
 _________________________________________________________________________________________________________________________________________________________________
