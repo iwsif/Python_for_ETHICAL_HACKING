@@ -82,7 +82,7 @@ ________________________________________________________________________________
  
  Steps:
  
- *pip3 install cryptography && pip3 install paramiko(SSH CLIENT) chmod -x && chmod u+x FILE.*
+ *pip3 install cryptography && pip3 install paramiko(SSH client) chmod -x && chmod u+x FILE.*
   
  *Type  >> FILE --help(to see arguments).Start program by typing ./ or python3 + FILENAME + arguments.*
   
@@ -111,7 +111,7 @@ ________________________________________________________________________________
 
 *You need a dictionary with possible domain names for this program.* 
 
- *pip3 install requests && chmod -x FILENAME && chmod u+x FILE.*
+ *pip3 install requests && chmod -x FILE && chmod u+x FILE.*
  
  *Type  >>  ./ or python3 to extract the program.See --help for program info.*
   
