@@ -1,4 +1,4 @@
-![](![image](https://user-images.githubusercontent.com/75048184/111120202-fcd46800-8562-11eb-8d48-efd0e26fd490.png)
+![](https://br.pinterest.com/pin/669840144551187928/)
 
 
 # Python_For_Ethical_Hacking
