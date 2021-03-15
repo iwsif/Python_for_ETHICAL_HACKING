@@ -9,7 +9,7 @@
 **[dos_tool.py(Denial of Service vulnerability testing)]**
 
 *Steps:
-  Download python3 meterpreter(For WINDOWS users)
+  Download python3 meterpreter(for WINDOWS users)
   Check if permissions are right
   Else type chmod u+x + FILENAME   
   Type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start for this program(Start several        processes with multiprocessing module).
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 **RISK FOR WHOLE SYSTEM!!**
 
-*You need to download python3 meterpreter(For WINDOWS users ONLY)
+*You need to download python3 meterpreter(for WINDOWS users ONLY)
   Steps:
   pip3 install cryptography && pip3 install paramiko(SSH CLIENT) chmod -x && chmod u+x FILENAME(User only permission to extract..).
   Type FILENAME --help(FOR HELP WITH ARGUMENTS)  Start program by typing ./ or python3 + FILENAME + arguments.
@@ -65,7 +65,7 @@ ________________________________________________________________________________
  
  *pip3 install requests && pip3 install stem && pip3 install cfscrape && pip3 install bs4*
  
- *chmod -x FILENAME && chmod u+x FILENAME  \\// ANON MODE(Tor Bypass for ANTIBOT systems) \\// CFSCRAPE module (For bypassing ANTIBOT systems)*
+ *chmod -x FILENAME && chmod u+x FILENAME  \\// ANON MODE(Tor Bypass for ANTIBOT systems) \\// CFSCRAPE module (for bypassing ANTIBOT systems)*
  
 __________________________________________________________________________________________________________________________________________________________________
 
