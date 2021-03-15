@@ -18,7 +18,7 @@
 _________________________________________________________________________________________________________________________________________________________________
 
 **[PyKeylogger]**
-**Simple keyboard logger **
+**Simple keyboard logger**
 
 *Implemented python3.
     Run pip3 install pynput(Module needed for keyboard listening!!)
@@ -65,7 +65,7 @@ ________________________________________________________________________________
  
  *pip3 install requests && pip3 install stem && pip3 install cfscrape && pip3 install bs4*
  
- *chmod -x FILENAME && chmod u+x FILENAME  \\// ANON MODE(TOR BYPASS-FOR ANTIBOT SYSTEMS) \\// CFSCRAPE module (For bypassing ANTIBOT systems)*
+ *chmod -x FILENAME && chmod u+x FILENAME  \\// ANON MODE(Tor Bypass for ANTIBOT systems) \\// CFSCRAPE module (For bypassing ANTIBOT systems)*
  
 __________________________________________________________________________________________________________________________________________________________________
 
