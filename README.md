@@ -18,7 +18,7 @@ Steps:
   
   *Type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start for this program(Start several  processes with multiprocessing module).*
   
-  *Control + c for exit.*
+  *CTRL + c for exit.*
 
 
 _________________________________________________________________________________________________________________________________________________________________
