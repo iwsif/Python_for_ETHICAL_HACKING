@@ -16,9 +16,7 @@ Steps:
 
   *Download python3 meterpreter(for WINDOWS users).*
   
-  *Check if permissions are right.*
-  
-  *Else type >> chmod u+x + FILE.*  
+  *Check if permissions are right,else type >> chmod u+x + FILE.*  
   
   *Type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start for this program(Start several  processes with multiprocessing module).*
   
