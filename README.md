@@ -11,8 +11,8 @@
 *Steps:
   Download python3 meterpreter(for WINDOWS users).
   Check if permissions are right.
-  Else type chmod u+x + FILENAME.  
-  Type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start for this program(Start several        processes with multiprocessing module).
+  Else type >> chmod u+x + FILENAME.  
+  >> type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start for this program(Start several  processes with multiprocessing module).
   Control + c for exit.*
 
 
@@ -67,7 +67,7 @@ ________________________________________________________________________________
   Steps:
   *pip3 install cryptography && pip3 install paramiko(SSH CLIENT) chmod -x && chmod u+x FILENAME.*
   
-  *Type FILENAME --help(to see arguments).Start program by typing ./ or python3 + FILENAME + arguments.*
+  *Type  >> FILENAME --help(to see arguments).Start program by typing ./ or python3 + FILENAME + arguments.*
   
   *Evil mode ENCRYPTS WHOLE filesystem AND sends the key to EVIL server via SSH.*
   
@@ -92,8 +92,11 @@ ________________________________________________________________________________
 
 **Find web domain.**
 
-*You need a dictionary with possible domain names for this program. 
- [pip3 install requests && chmod -x FILENAME && chmod u+x FILENAME] \\// Type ./ or python3 to extract the program See --help for program info*
+*You need a dictionary with possible domain names for this program.* 
+
+ *pip3 install requests && chmod -x FILENAME && chmod u+x FILENAME.*
+ 
+ *\\// Type >> ./ or python3 to extract the program.See --help for program info.*
   
 
 _________________________________________________________________________________________________________________________________________________________________
