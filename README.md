@@ -48,10 +48,13 @@ ________________________________________________________________________________
 **[FTP brute-forcer]**
 
 *If you dont have ftplib do pip3 install ftplib and run the script with python3.
+  
   Options:
-  --target // for target ip address.
-  --list // pass the wordlist file.
-  --port // optional argument default=21 port.*
+  **--target // for target ip address.**
+  
+  **--list // pass the wordlist file.**
+  
+  **--port // optional argument default=21 port.**
 
 
 __________________________________________________________________________________________________________________________________________________________________
@@ -64,12 +67,14 @@ ________________________________________________________________________________
 **RISK FOR WHOLE SYSTEM!!**
 
 *You need to download python3 meterpreter(for WINDOWS users ONLY)*.
-  Steps:
-  *pip3 install cryptography && pip3 install paramiko(SSH CLIENT) chmod -x && chmod u+x FILENAME.*
+ 
+ Steps:
+ 
+ *pip3 install cryptography && pip3 install paramiko(SSH CLIENT) chmod -x && chmod u+x FILENAME.*
   
-  *Type  >> FILENAME --help(to see arguments).Start program by typing ./ or python3 + FILENAME + arguments.*
+ *Type  >> FILENAME --help(to see arguments).Start program by typing ./ or python3 + FILENAME + arguments.*
   
-  *Evil mode ENCRYPTS WHOLE filesystem AND sends the key to EVIL server via SSH.*
+ *Evil mode ENCRYPTS WHOLE filesystem AND sends the key to EVIL server via SSH.*
   
 __________________________________________________________________________________________________________________________________________________________________
 
@@ -96,7 +101,7 @@ ________________________________________________________________________________
 
  *pip3 install requests && chmod -x FILENAME && chmod u+x FILENAME.*
  
- *\\// Type >> ./ or python3 to extract the program.See --help for program info.*
+ *Type  >>  ./ or python3 to extract the program.See --help for program info.*
   
 
 _________________________________________________________________________________________________________________________________________________________________
