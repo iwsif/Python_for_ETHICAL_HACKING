@@ -30,8 +30,6 @@ ________________________________________________________________________________
 **[PyKeylogger]**
 
 **Simple keyboard logger.**
-
-*Written in python3.*
     
 Run 
 
