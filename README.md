@@ -8,12 +8,17 @@
 
 **[dos_tool.py]**
 
-*Steps:
-  Download python3 meterpreter(for WINDOWS users).
-  Check if permissions are right.
-  Else type >> chmod u+x + FILENAME.  
-  Type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start for this program(Start several  processes with multiprocessing module).
-  Control + c for exit.*
+Steps:
+
+  *Download python3 meterpreter(for WINDOWS users).*
+  
+  *Check if permissions are right.*
+  
+  *Else type >> chmod u+x + FILENAME.*  
+  
+  *Type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start for this program(Start several  processes with multiprocessing module).*
+  
+  *Control + c for exit.*
 
 
 _________________________________________________________________________________________________________________________________________________________________
@@ -23,12 +28,17 @@ ________________________________________________________________________________
 
 **Simple keyboard logger.**
 
-*Written in python3.
-    Run pip3 install pynput(Module needed for keyboard listening!!)
-    Extract the program by typing python3 + programs name or simply "./"  and programs name.
-    Pass your email,your password,time to wait before sending another event to your gmail account.
-    This programs uses gmail stmp server(Turn off the security setting at your gmail account in order to receive events).
-    Start program.*
+*Written in python3.**
+    
+*Run pip3 install pynput(Module needed for keyboard listening!!)*
+    
+*xtract the program by typing python3 + programs name or simply "./"  and programs name.*
+    
+*Pass your email,your password,time to wait before sending another event to your gmail account.*
+    
+*This programs uses gmail stmp server(Turn off the security setting at your gmail account in order to receive events).*
+    
+*Start program.*
     
  _________________________________________________________________________________________________________________________________________________________________
 
@@ -38,8 +48,9 @@ ________________________________________________________________________________
 
 **Word generator that produces number of words and save them to a file.**
 
-  *Start the program with python3 programs name or "./" and programs name.
-  Pass as arguments the length of each word,how many words you want to generate and the file in which you want to save the results.*
+*Start the program with python3 programs name or "./" and programs name.*
+ 
+*Pass as arguments the length of each word,how many words you want to generate and the file in which you want to save the results.*
 
 
 __________________________________________________________________________________________________________________________________________________________________
@@ -50,11 +61,12 @@ ________________________________________________________________________________
 *If you dont have ftplib do pip3 install ftplib and run the script with python3.
   
   Options:
-  **--target // for target ip address.**
   
-  **--list // pass the wordlist file.**
+  *--target //  for target ip address.*
   
-  **--port // optional argument default=21 port.**
+  *--list //  pass the wordlist file.*
+  
+  *--port //  optional argument default=21 port.*
 
 
 __________________________________________________________________________________________________________________________________________________________________
