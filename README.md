@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fmr-robot-season-2&psig=AOvVaw0CN80z_osOmIVE1lhaZ-hf&ust=1615892172621000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD78r38su8CFQAAAAAdAAAAABAl)
+![](https://i.gifer.com/DLYP.gif)
 
 # Python_For_Ethical_Hacking
 
