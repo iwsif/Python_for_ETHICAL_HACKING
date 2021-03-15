@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/3o6ZtodgtXG3WSYKGs/giphy.gif)
+![](https://media.giphy.com/media/3zz2ihAv6L1HEE1U4G/giphy.gif)
 
 # Python_For_Ethical_Hacking
 
