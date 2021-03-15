@@ -67,7 +67,7 @@ ________________________________________________________________________________
   Steps:
   pip3 install cryptography && pip3 install paramiko(SSH CLIENT) chmod -x && chmod u+x FILENAME.
   Type FILENAME --help(to see arguments).Start program by typing ./ or python3 + FILENAME + arguments.
-  Evil mode ENCRYPTS WHOLE FILESYSTEM AND sends the key to EVIL SERVER via SSH*.
+  Evil mode ENCRYPTS WHOLE filesystem AND sends the key to EVIL server via SSH*.
   
 __________________________________________________________________________________________________________________________________________________________________
 
@@ -80,7 +80,7 @@ ________________________________________________________________________________
  
  *pip3 install requests && pip3 install stem && pip3 install cfscrape && pip3 install bs4*
  
- *chmod -x FILENAME && chmod u+x FILENAME  \\// ANON MODE(Tor Bypass for ANTIBOT systems) \\// CFSCRAPE module (for bypassing ANTIBOT systems)*
+ *chmod -x FILENAME && chmod u+x FILENAME  \\// ANON mode(Tor Bypass for ANTIBOT systems) \\// cfscrape module for bypassing ANTIBOT systems*
 
 
 __________________________________________________________________________________________________________________________________________________________________
