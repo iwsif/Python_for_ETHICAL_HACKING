@@ -31,12 +31,14 @@ ________________________________________________________________________________
 
 **[Random_Word-Generator]**
 **Word generator that produces number of words and save them to a file.**
+
   *Start the program with python3 programs name or "./" and programs name.
   Pass as arguments the length of each word,how many words you want to generate and the file in which you want to save the results.*
   
 __________________________________________________________________________________________________________________________________________________________________
 
 **[FTP brute-forcer]**
+
 *If you dont have ftplib do pip3 install ftplib and run the script with python3.
   Options:
   --target // for target ip address.
