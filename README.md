@@ -59,9 +59,9 @@ ________________________________________________________________________________
 
 **[encrypt_fs.py]**
 
-**==DONT USE THIS PROGRAM IF YOU DONT KNOW WHAT YOU DOING==**
+**/\\ DONT USE THIS PROGRAM IF YOU DONT KNOW WHAT YOU DOING /\\**
 
-**==RISK FOR WHOLE SYSTEM==**
+**/\\ RISK FOR WHOLE SYSTEM /\\**
 
 *You need to download python3 meterpreter(for WINDOWS users ONLY)
   Steps:
@@ -74,7 +74,7 @@ ________________________________________________________________________________
 
  **[extract_info.py]** 
  
- **Extracts links from website ==RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT)== *
+ **Extracts links from website /\\ RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT) /\\*
  
  *pip3 install requests && pip3 install stem && pip3 install cfscrape && pip3 install bs4*
  
