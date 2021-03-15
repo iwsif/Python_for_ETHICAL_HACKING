@@ -2,7 +2,7 @@
 
 # //\\//\\//\\ Python_For_Ethical_Hacking //\\//\\//\\
 
-***Python tools for security testing***
+**Python tools for security testing**
 
 **For PEN-TEST purposes ONLY**
 
@@ -15,7 +15,9 @@
   Type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start for this program(Start several        processes with multiprocessing module).
   Control + c for exit.*
 
+
 _________________________________________________________________________________________________________________________________________________________________
+
 
 **[PyKeylogger]**
 
@@ -30,14 +32,18 @@ ________________________________________________________________________________
     
  _________________________________________________________________________________________________________________________________________________________________
 
+
+
 **[Random_Word-Generator]**
 
 **Word generator that produces number of words and save them to a file.**
 
   *Start the program with python3 programs name or "./" and programs name.
   Pass as arguments the length of each word,how many words you want to generate and the file in which you want to save the results.*
-  
+
+
 __________________________________________________________________________________________________________________________________________________________________
+
 
 **[FTP brute-forcer]**
 
@@ -46,8 +52,10 @@ ________________________________________________________________________________
   --target // for target ip address.
   --list // pass the wordlist file.
   --port // optional argument default=21 port.*
-  
+
+
 __________________________________________________________________________________________________________________________________________________________________
+
 
 **[encrypt_fs.py]**
 
@@ -62,7 +70,8 @@ ________________________________________________________________________________
   Evil mode ENCRYPTS WHOLE FILESYSTEM AND sends the key to EVIL SERVER via SSH*.
   
 __________________________________________________________________________________________________________________________________________________________________
-  
+
+
  **[extract_info.py]** 
  
  **EXTRACT LINKS FROM WEBSITE (RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT)**
@@ -70,8 +79,10 @@ ________________________________________________________________________________
  *pip3 install requests && pip3 install stem && pip3 install cfscrape && pip3 install bs4*
  
  *chmod -x FILENAME && chmod u+x FILENAME  \\// ANON MODE(Tor Bypass for ANTIBOT systems) \\// CFSCRAPE module (for bypassing ANTIBOT systems)*
- 
+
+
 __________________________________________________________________________________________________________________________________________________________________
+
 
 **[domain.py]**
 
@@ -80,6 +91,7 @@ ________________________________________________________________________________
 *You need a dictionary with possible domain names for this program. 
  [pip3 install requests && chmod -x FILENAME && chmod u+x FILENAME] \\// Type ./ or python3 to extract the program See --help for program info*
   
+
 _________________________________________________________________________________________________________________________________________________________________
 
 
