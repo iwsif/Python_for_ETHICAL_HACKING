@@ -6,12 +6,12 @@
 
 **For PEN-TEST purposes ONLY**
 
-**[dos_tool.py(Denial of Service vulnerability testing)]**
+**[dos_tool.py]**
 
 *Steps:
-  Download python3 meterpreter(for WINDOWS users)
-  Check if permissions are right
-  Else type chmod u+x + FILENAME   
+  Download python3 meterpreter(for WINDOWS users).
+  Check if permissions are right.
+  Else type chmod u+x + FILENAME.  
   Type "./"  + programs name and the you need to pass the target ip,your fake ip address,and how many processes you want to start for this program(Start several        processes with multiprocessing module).
   Control + c for exit.*
 
