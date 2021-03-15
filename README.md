@@ -14,6 +14,7 @@ _________________________________________________________________________
 
 Steps:
 
+
     Download python3 meterpreter(for WINDOWS users).
   
     Check if permissions are right,else type >> chmod u+x + FILE.  
@@ -34,6 +35,7 @@ ________________________________________________________________________________
     
 Run 
 
+
     pip3 install pynput.
     
     Extract the program by typing python3 + programs name or simply "./"  and programs name.
@@ -52,6 +54,7 @@ Run
 **Word generator that produces number of words and save them to a file.**
 
 
+
     Start the program with python3 programs name or "./" and programs name.
  
     Pass as arguments the length of each word,how many words you want to generate and the file in which you want to save the results.
@@ -65,6 +68,7 @@ ________________________________________________________________________________
 *If you dont have ftplib do pip3 install ftplib and run the script with python3.
   
   Options:
+  
   
     --target //  for target ip address.
   
@@ -86,6 +90,7 @@ ________________________________________________________________________________
  
  Steps:
  
+ 
     pip3 install cryptography && pip3 install paramiko(SSH client) chmod -x && chmod u+x FILE.
   
     Type  >> FILE --help(to see arguments).Start program by typing ./ or python3 + FILE + arguments.
@@ -101,6 +106,7 @@ ________________________________________________________________________________
  
  **RISK website OVERLOADING due to HIGH RECURSION limit!!**
  
+ 
     pip3 install requests && pip3 install stem && pip3 install cfscrape && pip3 install bs4
  
     chmod -x FILE && chmod u+x FILE  \\//\\// anon mode(Tor Bypass for ANTIBOT systems) \\//\\// cfscrape module for bypassing ANTIBOT systems
@@ -114,6 +120,7 @@ ________________________________________________________________________________
 **Find web domain.**
 
 *You need a dictionary with possible domain names for this program.* 
+
 
     pip3 install requests && chmod -x FILE && chmod u+x FILE.
  
