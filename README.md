@@ -4,9 +4,9 @@
 
 _________________________________________________________________________
 
-**Tools for security testing**                                 
+**Tools for security testing.**                                 
                                                                         
-**For PEN-TEST purposes ONLY**                                         
+**For PEN-TEST purposes ONLY.**                                         
                                                                         
 _________________________________________________________________________
 
