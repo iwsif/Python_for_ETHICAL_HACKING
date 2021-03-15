@@ -76,7 +76,7 @@ ________________________________________________________________________________
  
  **Extracts links from website**
  
- **RISK website OVERLOADING due to HIGH RECURSION limit!!*
+ **RISK website OVERLOADING due to HIGH RECURSION limit!!**
  
  *pip3 install requests && pip3 install stem && pip3 install cfscrape && pip3 install bs4*
  
