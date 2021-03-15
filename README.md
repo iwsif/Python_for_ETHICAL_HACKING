@@ -38,10 +38,10 @@ ________________________________________________________________________________
 
 **[FTP brute-forcer]**
 *If you dont have ftplib do pip3 install ftplib and run the script with python3.
-  OPTIONS:
-  --target for target ip address.
-  --list pass the wordlist file.
-  Port optional argument default=21 port.*
+  Options:
+  --target // for target ip address.
+  --list // pass the wordlist file.
+  --port // optional argument default=21 port.*
   
 __________________________________________________________________________________________________________________________________________________________________
 
@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 *You need to download python3 meterpreter(FOR WINDOWS USERS ONLY)
   Steps:
-  pip3 install cryptography && pip3 install paramiko(SSH CLIENT)  chmod -x && chmod u+x FILENAME(User only permission to extract..).
+  pip3 install cryptography && pip3 install paramiko(SSH CLIENT) chmod -x && chmod u+x FILENAME(User only permission to extract..).
   Type FILENAME --help(FOR HELP WITH ARGUMENTS)  Start program by typing ./ or python3 + FILENAME + arguments.
   EVIL MODE ENCRYPTS  WHOLE FILESYSTEM AND SENDS THE KEY TO EVIL SERVER VIA SSH*.
   
