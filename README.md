@@ -1,11 +1,12 @@
 
-![](https://media.giphy.com/media/3o6ZtodgtXG3WSYKGs/giphy.gif)
+![]()
 
 
 # Python_For_Ethical_Hacking
-***Python tools for security testing***
 
-***FOR PEN-TEST PURPOSES ONLY***
+**Python tools for security testing**
+
+**FOR PEN-TEST PURPOSES ONLY**
 
 **[dos_tool.py(Denial of Service vulnerability testing)]**
 
@@ -64,7 +65,7 @@ ________________________________________________________________________________
   
  **[extract_info.py]** 
  
- ***EXTRACT LINKS FROM WEBSITE (RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT)***
+ **EXTRACT LINKS FROM WEBSITE (RISK WEBSITE OVERLOADING DUE TO HIGH RECURSION_LIMIT)**
  
  *pip3 install requests && 
     pip3 install stem &&
@@ -77,7 +78,7 @@ ________________________________________________________________________________
 
 **[domain.py]**
 
-***FIND WEB DOMAIN***
+**FIND WEB DOMAIN**
 
 *You need a dictionary with possible domain names for this program 
   pip3 install requests && chmod -x FILENAME && chmod u+x FILENAME Type ./ or python3 to extract the program See --help for program info*
