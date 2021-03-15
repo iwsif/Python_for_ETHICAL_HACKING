@@ -32,7 +32,7 @@ ________________________________________________________________________________
     
 *Run pip3 install pynput(Module needed for keyboard listening!!)*
     
-*xtract the program by typing python3 + programs name or simply "./"  and programs name.*
+*Extract the program by typing python3 + programs name or simply "./"  and programs name.*
     
 *Pass your email,your password,time to wait before sending another event to your gmail account.*
     
@@ -99,7 +99,7 @@ ________________________________________________________________________________
  
  *pip3 install requests && pip3 install stem && pip3 install cfscrape && pip3 install bs4*
  
- *chmod -x FILENAME && chmod u+x FILENAME  \\// ANON mode(Tor Bypass for ANTIBOT systems) \\// cfscrape module for bypassing ANTIBOT systems*
+ *chmod -x FILENAME && chmod u+x FILENAME  \\//\\// Anon mode(Tor Bypass for ANTIBOT systems) \\// cfscrape module for bypassing ANTIBOT systems*
 
 
 __________________________________________________________________________________________________________________________________________________________________
