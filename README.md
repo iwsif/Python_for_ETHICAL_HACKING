@@ -1,4 +1,4 @@
-![](https://gfycat.com/actualgiftedhapuku)
+![](https://thumbs.gfycat.com/ActualGiftedHapuku-mobile.mp4)
 
 
 # Python_For_Ethical_Hacking
