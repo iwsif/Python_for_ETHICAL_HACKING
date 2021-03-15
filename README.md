@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 **Simple keyboard logger.**
 
-*Written in python3.**
+*Written in python3.*
     
 *Run pip3 install pynput(Module needed for keyboard listening!!)*
     
@@ -38,7 +38,6 @@ ________________________________________________________________________________
     
 *This programs uses gmail stmp server(Turn off the security setting at your gmail account in order to receive events).*
     
-*Start program.*
     
  _________________________________________________________________________________________________________________________________________________________________
 
