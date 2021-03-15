@@ -63,13 +63,13 @@ ________________________________________________________________________________
 
 **RISK FOR WHOLE SYSTEM!!**
 
-*You need to download python3 meterpreter(for WINDOWS users ONLY).
+*You need to download python3 meterpreter(for WINDOWS users ONLY)*.
   Steps:
-  pip3 install cryptography && pip3 install paramiko(SSH CLIENT) chmod -x && chmod u+x FILENAME.
+  *pip3 install cryptography && pip3 install paramiko(SSH CLIENT) chmod -x && chmod u+x FILENAME.*
   
-  Type FILENAME --help(to see arguments).Start program by typing ./ or python3 + FILENAME + arguments.
+  *Type FILENAME --help(to see arguments).Start program by typing ./ or python3 + FILENAME + arguments.*
   
-  Evil mode ENCRYPTS WHOLE filesystem AND sends the key to EVIL server via SSH*.
+  *Evil mode ENCRYPTS WHOLE filesystem AND sends the key to EVIL server via SSH.*
   
 __________________________________________________________________________________________________________________________________________________________________
 
