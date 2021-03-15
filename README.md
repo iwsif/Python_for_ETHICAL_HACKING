@@ -1,4 +1,4 @@
-![](https://tenor.com/SVor.gif)
+![](https://tenor.com/view/typing-code-linux-computer-elliot-alderson-gif-10667985)
 
 
 # Python_For_Ethical_Hacking
