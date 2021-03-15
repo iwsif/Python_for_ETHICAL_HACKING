@@ -1,4 +1,4 @@
-![](https://br.pinterest.com/pin/669840144551187928/)
+![](https://tenor.com/SVor.gif)
 
 
 # Python_For_Ethical_Hacking
